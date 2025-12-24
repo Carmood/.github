@@ -63,9 +63,10 @@ We're always looking for talented individuals passionate about automotive techno
 
 ## Connect With Us
 
-- 🌐 Visit our website: [carmoodva.com](https://www.carmoodva.com/)
+- 🌐 Visit our website to browse inventory and learn more
 - 💼 Explore our projects and repositories
 - 📧 Get in touch for partnerships or inquiries
+- 🤝 Check out our open source contributions
 
 ---
 
